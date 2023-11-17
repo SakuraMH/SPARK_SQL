@@ -1,0 +1,11 @@
+Id,titre,description,service,date
+1,Problème d'accès au réseau,Impossible d'accéder à Internet,Informatique,2023-11-01
+2,Panne de la machine X123,La machine X123 est hors service,Production,2022-11-02
+3,Erreur de facturation,Client facturé incorrectement,Finance,2023-11-03
+4,Problème d'impression,Imprimante ne fonctionne pas,Informatique,2021-11-04
+5,Incident de sécurité,Violation de la politique de sécurité,Sécurité,2023-11-05
+6,Panne de courant,Perte de courant dans le bâtiment,Infrastructure,2021-11-06
+7,Problème de livraison,Retard dans la livraison d'une commande,Logistique,2021-11-07
+8,Erreur de production,Production de produits défectueux,Production,2023-11-08
+9,Problème de ressources humaines,Conflit entre employés,RH,2022-11-09
+10,Problème d'application,L'application plante fréquemment,Informatique,2023-11-10
